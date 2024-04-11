@@ -1,0 +1,24 @@
+OSForensics is a powerful digital investigation tool that can help you analyze various aspects of a computer's activity and files. Here's a brief demonstration of how you can use OSForensics to achieve the tasks you've listed:
+
+i. Recent Activity:
+   - Open OSForensics and go to the Recent Activity tab.
+   - Here, you can find a list of recent files accessed, programs run, and other activities on the computer.
+
+ii. Decryption & Password Recovery:
+   - Navigate to the Decryption & Password Recovery tab in OSForensics.
+   - Use this feature to recover passwords or decrypt files that have been encrypted.
+
+iii. Identify all the deleted URL:
+   - Go to the Deleted Files tab in OSForensics.
+   - Look for files with URLs in their names or contents to identify deleted URLs.
+
+iv. Identify at least two images deleted in the year 2018:
+   - In the Deleted Files tab, filter the results to show only image files.
+   - Look for files with deletion dates in the year 2018 to identify deleted images from that year.
+
+v. Identify four text and word files created/deleted in the year 2019, also prepare a report of such items:
+   - In the Deleted Files tab, filter the results to show only text and Word files.
+   - Look for files with creation or deletion dates in the year 2019.
+   - Export the list of identified files as a report for further analysis.
+
+Please note that the actual steps may vary slightly depending on the specific version of OSForensics you are using. It's also important to ensure that you have the necessary permissions and legal authority to perform forensic analysis on the computer in question.
